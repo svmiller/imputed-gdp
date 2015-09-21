@@ -16,4 +16,4 @@ It requires the following data sources.
 
 While I set the the left-bound to 1946 (for my purposes), this approach is generalizable to analyses of pre-WWII GDP (should you need it with more current data). Instead of using World Bank or PWT, consider the Maddison Project data instead.
 
-![correlation matrix](corr-gdp.png)
+![correlation matrix](corr-gdp.pdf)
